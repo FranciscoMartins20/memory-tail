@@ -1,0 +1,17 @@
+{
+  "name": "memory-tail",
+  "owner": {
+    "name": "Francisco Martins",
+    "url": "https://github.com/FranciscoMartins20"
+  },
+  "metadata": {
+    "description": "Plugins memory-tail para Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "memory-tail",
+      "source": "./plugins/memory-tail",
+      "description": "Programador sénior que se lembra do que fizeste em cada projeto e aplica as tuas regras."
+    }
+  ]
+}
